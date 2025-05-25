@@ -18,6 +18,12 @@ SecureChat implements a protocol that allows three clients to:
 | Integrity      | SHA-256            |
 | Key Exchange   | RSA + Nonce Hashing |
 
+## Protocol Diagram
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/d51ab29d-f6ec-48c7-a6c1-41b439d90e6c" />
+
+
+
+
 ## 🚀 How to Run
 
 ```bash
@@ -43,9 +49,9 @@ python run.py client --id Charlie
 
 ## 👨‍🏫 Authors
 
-- Nnamdi Philip Okonkwo (24013366)
-- Abhishek Meeneshwar Ayare (24171522)
-- Neeraj Kumar Singh (24026417)
-- Sarthak Ajay Mishra (24199842)
+- Nnamdi Philip Okonkwo 
+- Abhishek Meeneshwar Ayare 
+- Neeraj Kumar Singh 
+- Sarthak Ajay Mishra 
 
-Supervisor: Prof. Thomas Newe
+
